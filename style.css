@@ -38,14 +38,15 @@ header.startup hr{
 header.startup h1{
 	font-size: 2rem;
 	text-align: center;
-	margin-right: 30px;
+	margin-right: 50px;
 }
 
 .btn{
 	font-weight: 700;
 	text-transform: uppercase;
-	border-radius: 300px;
+	border-radius: 30px;
 	font-family: "Monserrat", sans-serif;
+	justify-content: center;
 }
 
 .btn-xl{
