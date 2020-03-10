@@ -1,0 +1,82 @@
+body, html{
+	width: 100%
+	height:100%
+}
+
+
+body{
+	font-family: "Monserrat", sans-serif;
+}
+
+
+hr{
+	max-width: 500px:
+	border-width: 3px;
+	border-color: #F05F44
+}
+
+
+.faded{
+	color: rgba(255, 255, 255, 0.8);
+}
+
+
+header.startup{
+	background-image: url('laptop.jpg');
+	background-position: center;
+	justify-content: center;
+	background-size: cover;
+	height: 100vh;
+	
+}
+
+header.startup hr{
+	margin-top: 200px;
+	margin-bottom: 50px;
+}
+
+header.startup h1{
+	font-size: 2rem;
+	text-align: center;
+	margin-right: 30px;
+}
+
+.btn{
+	font-weight: 700;
+	text-transform: uppercase;
+	border-radius: 300px;
+	font-family: "Monserrat", sans-serif;
+}
+
+.btn-xl{
+	padding: 2rem;
+}
+
+.btn-danger{
+	background-color: white;
+	border-color: #F05F44;
+}
+
+.btn:hover {
+	background-color: green;
+	text-decoration: underline overline;
+	border-color:#ee4b08;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
